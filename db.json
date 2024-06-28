@@ -1,25 +1,17 @@
 {
   "users": [
     {
-      "id": "f14b",
-      "fullName": "lala",
-      "email": "lala@gmail.com",
-      "password": "123",
-      "instituteName": "123"
+      "id": "d7ed"
     },
     {
-      "id": "8766",
-      "fullName": "awdawd",
-      "email": "awdawdw@adad",
-      "password": "adawd",
-      "instituteName": "awdawd"
-    },
-    {
-      "id": "e064",
-      "fullName": "Loquendo",
-      "email": "loquendo@gmail.com",
-      "password": "123",
-      "instituteName": "faz"
+      "id": "97c6",
+      "firstName": "sa",
+      "lastName": "sa",
+      "fullName": "sa sa",
+      "email": "sa@gmail.com",
+      "password": "sa",
+      "userType": "patient",
+      "instituteName": ""
     }
   ]
 }
